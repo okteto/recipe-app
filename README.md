@@ -1,4 +1,4 @@
-# Getting Started with Python FastAPI framework on Okteto
+# Develop and Deploy a FastAPI Application in Okteto.
 
-This is an example of a [FastAPI](https://github.com/tiangolo/fastapi) application.
-Follow along on [Building a FastAPI Application and Deploying it with Okteto Stacks](https://okteto.com/blog/building-and-deploying-a-fastapi-app-in-okteto-cloud/) to develop and deploy on [Okteto](https://github.com/okteto/okteto)
+This is an example of a [FastAPI](https://github.com/tiangolo/fastapi) application deployed using [Helm Charts](https://helm.sh_.
+Follow along on [Deploying and Developing a Helm Chart applicaiton in Okteto](https://okteto.com//blog/developing-a-helm-chart-app-in-okteto)
